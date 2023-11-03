@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* home-section */
+.home {
+    background-color: #2F1F14; 
+    width: 100%;
+    height: 70vh;
+}
+.home img {
+    width: 100%;
+    height: 70vh;
+    object-fit: contain;
+}
